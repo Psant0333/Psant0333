@@ -2,9 +2,7 @@
 
 - 🧑‍💻Estudante de programação
 - 😃 Pronouns: ele/dele
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-<div>
+- 
   <a href="https://github.com/Psant0333">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Psant0333&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psant0333&layout=compact&langs_count=7&theme=dark"/>
